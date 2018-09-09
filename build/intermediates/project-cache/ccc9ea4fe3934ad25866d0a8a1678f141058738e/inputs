@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=F:\Android\Calculus_Emu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=28d4fe4158839cb84ec1e8183736d6480239bc5d
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
